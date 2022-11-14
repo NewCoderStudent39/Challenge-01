@@ -5,7 +5,5 @@ About:
   
  Challenge: 
     The challenges this week were to indentify the semantic elements that can be used to replace the div semantic element.
-    
     Determine the appropriate places to place these different semantic elements to preserve functionality of the page 
-  
     Retain functionality of the page and not alter assets or base utility yet make the semantice elements of the html page more inline with standard html text
